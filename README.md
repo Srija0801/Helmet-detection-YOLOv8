@@ -19,7 +19,7 @@ The models were implemented and evaluated using the SHWD dataset.
 
 The modified architecture integrates LC_CBS modules into selected backbone layers and uses SE_C2f for feature refinement. A separate experiment adds a P2 detection branch alongside the existing P3, P4, and P5 detection scales.
 
-![Modified YOLOv8 Architecture](architecture/proposed_architecture.png)
+![Modified YOLOv8 Architecture](architecture/architecture.png)
 
 ### Main Components
 
@@ -88,19 +88,19 @@ The following table compares the baseline and modified model configurations.
 
 ### Detection Performance
 
-![Detection Performance](results/figure1_detection_performance_updated.png)
+![Detection Performance](results/figure1_detection_performance.png)
 
 ### Model Parameter Comparison
 
-![Parameter Comparison](results/figure2_parameter_comparison_updated.png)
+![Parameter Comparison](results/figure2_parameter_comparison.png)
 
 ### Computational Complexity
 
-![GFLOPs Comparison](results/figure3_gflops_comparison_updated.png)
+![GFLOPs Comparison](results/figure3_gflops_comparison.png)
 
 ### Per-Class Performance
 
-![Per-Class Performance](results/figure4_per_class_performance_updated.png)
+![Per-Class Performance](results/figure4_per_class_performance.png)
 
 ### Qualitative Detection Results
 
