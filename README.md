@@ -159,7 +159,7 @@ Helmet-Detection-YOLOv8/
 
 The complete implementation and experimental workflow are documented in the Jupyter Notebook:
 
-[Helmet Detection Implementation Notebook](notebooks/Helmet_Detection_Implementation.ipynb)
+
 
 ## Reference Paper
 
