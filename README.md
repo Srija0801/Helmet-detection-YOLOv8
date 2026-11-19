@@ -128,33 +128,32 @@ These experiments demonstrate the trade-offs between model size, computational c
 - Kaggle GPU Environment
 
 ## Repository Structure
-
+ 
 ```text
 Helmet-Detection-YOLOv8/
 │
 ├── README.md
-├── notebooks/
-│   └── Helmet_Detection_Implementation.ipynb
+├── architecture/
+│   └── architecture.png
 │
-├── report/
-│   ├── Helmet_Detection_Report.pdf
-│   └── Helmet_Detection_Report.docx
+├── notebooks/
+│   ├── CV_Projectkaggle.ipynb
+│   └── Helmet_Detection_YOLOv8_CV_....ipynb
 │
 ├── presentation/
-│   └── Helmet_Detection_Presentation.pdf
+│   └── Helmet_Net_Presentation.pptx
 │
-├── architecture/
-│   └── proposed_architecture.png
+├── report/
+│   └── CV_FINALREPORT.pdf
 │
 └── results/
     ├── figure1_detection_performance_updated.png
     ├── figure2_parameter_comparison_updated.png
-    ├── figure3_gflops_comparison_updated.png
-    ├── figure4_per_class_performance_updated.png
+    ├── figure2b_gflops_comparison.png
+    ├── figure3_per_class_performance_updated.png
+    ├── figure4_ciou_training_convergence.png
     └── qualitative_detection_results.png
 ```
-
-*The structure above is a suggested layout. Include only files that are actually present in the repository.*
 
 ## Implementation
 
