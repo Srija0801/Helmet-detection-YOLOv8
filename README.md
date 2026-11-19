@@ -96,11 +96,11 @@ The following table compares the baseline and modified model configurations.
 
 ### Computational Complexity
 
-![GFLOPs Comparison](results/figure3_gflops_comparison.png)
+![GFLOPs Comparison](results/figure2b_gflops_comparison.png)
 
 ### Per-Class Performance
 
-![Per-Class Performance](results/figure4_per_class_performance.png)
+![Per-Class Performance](results/figure3_per_class_performance.png)
 
 ### Qualitative Detection Results
 
